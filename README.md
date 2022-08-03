@@ -7,3 +7,7 @@ Whether financial, political, or social&mdash;data's true power rests in its abi
 Now, we know what you may be thinking: _"Duh. It gets hotter ..."_
 
 But, if pressed, how would you **prove** it?
+
+## Check out the [Weather output figures](WeatherPy/Images) to review the insights
+
+

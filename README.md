@@ -8,6 +8,9 @@ Now, we know what you may be thinking: _"Duh. It gets hotter ..."_
 
 But, if pressed, how would you **prove** it?
 
-### Check out the [Weather output figures](WeatherPy/Images) to review the insights
+### Check out the following
+* [Weather output figures](WeatherPy/Images) to review the insights
+* [Weather Data File](WeatherPy/OutputFiles) to review the extracted data from API
+* [Sample Solution](WeatherPy/WeatherPy.ipynb) to review the challenge
 
 

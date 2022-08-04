@@ -13,4 +13,5 @@ But, if pressed, how would you **prove** it?
 * [Weather Data File](WeatherPy/OutputFiles) to review the extracted data from API
 * [Sample Solution](WeatherPy/WeatherPy.ipynb) to review the challenge
 
-
+### Check out the following for ```Hotels``` in ```Vacation``` analysis 
+* [Sample Solution](VacationPy/VacationPy.ipynb) to review the challenge

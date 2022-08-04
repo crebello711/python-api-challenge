@@ -15,3 +15,4 @@ But, if pressed, how would you **prove** it?
 
 ### Check out the following for ```Hotels``` in ```Vacation``` analysis 
 * [Sample Solution](VacationPy/VacationPy.ipynb) to review the challenge
+![Test](https://github.com/crebello711/python-api-challenge/blob/main/VacationPy/map_layer.png)
